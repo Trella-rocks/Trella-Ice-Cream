@@ -1,0 +1,85 @@
+/* class = .
+id= */
+
+.Coffee{
+    color: brown;
+    text-align: center;
+}
+.tom1{
+    text-align: center;
+}
+.tom2{
+    margin: auto;
+    display: block;
+    place-content: center;
+    background-color: rgb(248, 206, 19);
+    padding: 9px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.img1{
+width: 520px;
+height: 400px;
+place-content: center;
+display: flex;
+margin: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+border-color: rgb(16, 139, 139);
+}
+.tom3{
+    text-align: justify;
+    background-color: rgb(17, 99, 8);
+   color: white;
+}
+.tom4{
+    text-align: center;
+}
+.tom5{text-align: center;}
+.img2{
+    width: 760px;
+    height: 500px;
+    place-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: aqua;
+}
+.tom6{
+    text-align: center;
+    color: rgb(4, 104, 34);
+}
+.tom7{
+    text-align: center;
+}
+.img4{
+    width: 520px;
+    height: 400px;
+    place-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: aqua;}
+    .tom11{
+        text-align: center;
+        color: rgb(232, 236, 233);
+        background-color: rgb(15, 111, 201);
+    }
+    .tom12{
+        text-align: center;
+        color: rgb(4, 5, 0);
+        background-color: rgb(241, 137, 1);
+        backdrop-filter: auto;
+        text-size-adjust: 500;
+    }
+    img4{
+        width: 760px;
+        height: 500px;
+        place-content: center;
+        display: flex;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-color: aqua;}
